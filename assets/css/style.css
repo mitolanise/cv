@@ -1,0 +1,14 @@
+.bloc{
+    padding: 10px;
+}
+.icone{
+   text-align: center;
+}
+.icone i{
+    font-size:25px;
+    color:red;
+ } 
+ .btn-contact a{
+     padding: 5px;
+     width:100%;
+ }
